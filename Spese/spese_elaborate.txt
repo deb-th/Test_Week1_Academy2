@@ -1,0 +1,2 @@
+Data;Categoria;Descrizione;APPROVATA;LvlApprov;ImportoRimborso
+Data;Categoria;Descrizione;RESPINTA;-;-
